@@ -1,0 +1,205 @@
+C:\VTC bai tap\codep\bin\Debug\net6.0\codep.exe
+C:\VTC bai tap\codep\bin\Debug\net6.0\codep.deps.json
+C:\VTC bai tap\codep\bin\Debug\net6.0\codep.runtimeconfig.json
+C:\VTC bai tap\codep\bin\Debug\net6.0\codep.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\codep.pdb
+C:\VTC bai tap\codep\obj\Debug\net6.0\codep.csproj.AssemblyReference.cache
+C:\VTC bai tap\codep\obj\Debug\net6.0\codep.GeneratedMSBuildEditorConfig.editorconfig
+C:\VTC bai tap\codep\obj\Debug\net6.0\codep.AssemblyInfoInputs.cache
+C:\VTC bai tap\codep\obj\Debug\net6.0\codep.AssemblyInfo.cs
+C:\VTC bai tap\codep\obj\Debug\net6.0\codep.csproj.CoreCompileInputs.cache
+C:\VTC bai tap\codep\obj\Debug\net6.0\codep.dll
+C:\VTC bai tap\codep\obj\Debug\net6.0\refint\codep.dll
+C:\VTC bai tap\codep\obj\Debug\net6.0\codep.pdb
+C:\VTC bai tap\codep\obj\Debug\net6.0\codep.genruntimeconfig.cache
+C:\VTC bai tap\codep\obj\Debug\net6.0\ref\codep.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\Google.Protobuf.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\MySql.Data.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\VTC bai tap\codep\obj\Debug\net6.0\codep.csproj.CopyComplete
+C:\VTC bai tap\codep\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\ZstdNet.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\VTC bai tap\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\codep.exe
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\codep.deps.json
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\codep.runtimeconfig.json
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\codep.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\codep.pdb
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asus\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\asus\OneDrive\Máy tính\codep\obj\Debug\net6.0\codep.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Máy tính\codep\obj\Debug\net6.0\codep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Máy tính\codep\obj\Debug\net6.0\codep.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Máy tính\codep\obj\Debug\net6.0\codep.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Máy tính\codep\obj\Debug\net6.0\codep.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Máy tính\codep\obj\Debug\net6.0\codep.csproj.CopyComplete
+C:\Users\asus\OneDrive\Máy tính\codep\obj\Debug\net6.0\codep.dll
+C:\Users\asus\OneDrive\Máy tính\codep\obj\Debug\net6.0\refint\codep.dll
+C:\Users\asus\OneDrive\Máy tính\codep\obj\Debug\net6.0\codep.pdb
+C:\Users\asus\OneDrive\Máy tính\codep\obj\Debug\net6.0\codep.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Máy tính\codep\obj\Debug\net6.0\ref\codep.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\codep.exe
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\codep.deps.json
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\codep.runtimeconfig.json
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\codep.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\codep.pdb
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\obj\Debug\net6.0\codep.csproj.AssemblyReference.cache
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\obj\Debug\net6.0\codep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\obj\Debug\net6.0\codep.AssemblyInfoInputs.cache
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\obj\Debug\net6.0\codep.AssemblyInfo.cs
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\obj\Debug\net6.0\codep.csproj.CoreCompileInputs.cache
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\obj\Debug\net6.0\codep.csproj.CopyComplete
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\obj\Debug\net6.0\codep.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\obj\Debug\net6.0\refint\codep.dll
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\obj\Debug\net6.0\codep.pdb
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\obj\Debug\net6.0\codep.genruntimeconfig.cache
+C:\Users\quach\OneDrive\Máy tính\ASM\codep\obj\Debug\net6.0\ref\codep.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\codep.exe
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\codep.deps.json
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\codep.runtimeconfig.json
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\codep.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\codep.pdb
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\quach\OneDrive\Máy tính\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\quach\OneDrive\Máy tính\codep\obj\Debug\net6.0\codep.csproj.AssemblyReference.cache
+C:\Users\quach\OneDrive\Máy tính\codep\obj\Debug\net6.0\codep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quach\OneDrive\Máy tính\codep\obj\Debug\net6.0\codep.AssemblyInfoInputs.cache
+C:\Users\quach\OneDrive\Máy tính\codep\obj\Debug\net6.0\codep.AssemblyInfo.cs
+C:\Users\quach\OneDrive\Máy tính\codep\obj\Debug\net6.0\codep.csproj.CoreCompileInputs.cache
+C:\Users\quach\OneDrive\Máy tính\codep\obj\Debug\net6.0\codep.csproj.CopyComplete
+C:\Users\quach\OneDrive\Máy tính\codep\obj\Debug\net6.0\codep.dll
+C:\Users\quach\OneDrive\Máy tính\codep\obj\Debug\net6.0\refint\codep.dll
+C:\Users\quach\OneDrive\Máy tính\codep\obj\Debug\net6.0\codep.pdb
+C:\Users\quach\OneDrive\Máy tính\codep\obj\Debug\net6.0\codep.genruntimeconfig.cache
+C:\Users\quach\OneDrive\Máy tính\codep\obj\Debug\net6.0\ref\codep.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\codep.exe
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\codep.deps.json
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\codep.runtimeconfig.json
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\codep.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\codep.pdb
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\obj\Debug\net6.0\codep.csproj.AssemblyReference.cache
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\obj\Debug\net6.0\codep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\obj\Debug\net6.0\codep.AssemblyInfoInputs.cache
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\obj\Debug\net6.0\codep.AssemblyInfo.cs
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\obj\Debug\net6.0\codep.csproj.CoreCompileInputs.cache
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\obj\Debug\net6.0\codep.csproj.CopyComplete
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\obj\Debug\net6.0\codep.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\obj\Debug\net6.0\refint\codep.dll
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\obj\Debug\net6.0\codep.pdb
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\obj\Debug\net6.0\codep.genruntimeconfig.cache
+C:\Users\quach\OneDrive\Máy tính\asm-project\codep\obj\Debug\net6.0\ref\codep.dll
